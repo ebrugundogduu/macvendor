@@ -7,6 +7,7 @@ Bu sistem, MAC adreslerinden üretici bilgilerini çekerek cihazların hangi kat
 
 ## Takım Üyeleri 🤝🎓📌
 - **Ebru Gündoğdu**, Öğrenci No: **2320191087**
+- **İrem Rabia Uzun**, Öğrenci No: **2320191032**
 
 ## Kullanılan Kütüphaneler ve Versiyonları 📦📜🔢
 Proje Python diliyle geliştirilmiştir ve aşağıdaki kütüphaneler kullanılmaktadır: 🚀📊🔧
