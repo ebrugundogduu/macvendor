@@ -6,8 +6,7 @@ MAC Vendor Analiz Sistemi, ağ üzerindeki cihazların MAC adreslerini analiz ed
 Bu sistem, MAC adreslerinden üretici bilgilerini çekerek cihazların hangi kategoriye ait olduğunu (IoT, son kullanıcı cihazları, ağ ekipmanları vb.) belirler. Ayrıca, sahte MAC adreslerini tespit edebilir ve vendor bazlı güvenlik riski değerlendirmesi yapabilir. 🕵️‍♂️🔐📊
 
 ## Takım Üyeleri 🤝🎓📌
-- **Kerem Avcı**, Öğrenci No: **3131**
-- **Burak Kurt**, Öğrenci No: **6262**
+- **Ebru Gündoğdu**, Öğrenci No: **2320191087**
 
 ## Kullanılan Kütüphaneler ve Versiyonları 📦📜🔢
 Proje Python diliyle geliştirilmiştir ve aşağıdaki kütüphaneler kullanılmaktadır: 🚀📊🔧
